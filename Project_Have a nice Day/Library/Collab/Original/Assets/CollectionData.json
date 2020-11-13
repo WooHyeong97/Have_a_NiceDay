@@ -1,0 +1,76 @@
+{
+    "isSetting": true,
+    "AccumulateNumber": 16,
+    "studentNumber": 4,
+    "workerNumber": 4,
+    "developerNumber": 4,
+    "soldierNumber": 3,
+    "studentButtons": [
+        {
+            "instanceID": 15018
+        },
+        {
+            "instanceID": 15072
+        },
+        {
+            "instanceID": 14874
+        },
+        {
+            "instanceID": 14638
+        },
+        {
+            "instanceID": 14724
+        }
+    ],
+    "workerButtons": [
+        {
+            "instanceID": 15000
+        },
+        {
+            "instanceID": 14694
+        },
+        {
+            "instanceID": 14608
+        },
+        {
+            "instanceID": 14964
+        },
+        {
+            "instanceID": 14922
+        }
+    ],
+    "developerButtons": [
+        {
+            "instanceID": 15090
+        },
+        {
+            "instanceID": 14754
+        },
+        {
+            "instanceID": 14546
+        },
+        {
+            "instanceID": 14974
+        },
+        {
+            "instanceID": 14902
+        }
+    ],
+    "soldierButtons": [
+        {
+            "instanceID": 14628
+        },
+        {
+            "instanceID": 14912
+        },
+        {
+            "instanceID": 14714
+        },
+        {
+            "instanceID": 15046
+        },
+        {
+            "instanceID": 15036
+        }
+    ]
+}
