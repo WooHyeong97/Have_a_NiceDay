@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class InGameScript : MonoBehaviour
 {
     public Text LengthText;
+    public Text NextNumber;
 
     public void SetLength(int t1, int t2)
     {
